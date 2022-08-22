@@ -1,3 +1,4 @@
+[![MasterHead](file:///Users/salmaibrahim/Documents/Notion/computer.gif)]
 ### Hi there 👋🏾, my name is Salma and I am an aspiring fullstack web developer!
 - 🔭 I’m currently working on my JS skills.
 - 🌱 I’m currently learning advanced JS.
