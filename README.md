@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋🏾, my name is Salma and I am an aspiring fullstack web developer!
-- 🔭 I’m currently working on my portfolio!
+- 🔭 I’m currently working on freelaning a website for a mental health non-profit!!
 - 🌱 I’m currently reviewing JS/HTML/CSS basics with mini projects.
 - 👯 I’m looking to collaborate on beginner projects
 - 📫 How to reach me: https://www.linkedin.com/in/salma-ibrahim-a1275817a/
