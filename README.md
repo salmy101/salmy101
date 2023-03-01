@@ -3,6 +3,7 @@
 -->
 
 
+[RESUME](https://github.com/salmy101/Resume/blob/main/SalmaIbrahim.pdf) 
 ### Hi there 👋🏾, my name is Salma and I am an aspiring fullstack web developer!
 - 🔭 I’m currently working on freelaning a website for a mental health non-profit!!
 - 🌱 I’m currently reviewing JS/HTML/CSS basics with mini projects.
