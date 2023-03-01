@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I like reading, so checkout my pinned project called Bookd Up!
 
 Check out my:
-[RESUME](https://github.com/salmy101/Resume/blob/main/SalmaIbrahim.pdf) 
+\n[RESUME](https://github.com/salmy101/Resume/blob/main/SalmaIbrahim.pdf) 
 [LINKEDIN](https://www.linkedin.com/in/salma-ibrahim-a1275817a/)
 
 <!--
