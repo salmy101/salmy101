@@ -11,7 +11,7 @@
 
 Check out my:  
 
-[RESUME](https://github.com/salmy101/Resume/blob/main/SalmaIbrahim.pdf). 
+[RESUME](https://github.com/salmy101/Resume/blob/main/SalmaIbrahim.pdf)
 
 [LINKEDIN](https://www.linkedin.com/in/salma-ibrahim-a1275817a/)
 
