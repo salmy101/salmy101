@@ -5,7 +5,7 @@
 
 ### Hi there 👋🏾, my name is Salma and I am an aspiring fullstack web developer!
 - 🔭 I’m currently working on freelaning a note taking app with @awomoussa!!
-- 🌱 I’m currently reviewing JS/HTML/CSS basics with mini projects.
+- 🌱 I’m currently an tech itern @DYNE.
 - 👯 I’m looking to collaborate on beginner projects
 - ⚡ Fun fact: I like reading, so checkout my pinned project called Bookd Up!
 
