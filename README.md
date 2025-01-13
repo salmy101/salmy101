@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋🏾, my name is Salma and I am an aspiring fullstack web developer!
-- 🔭 I’m currently crushing it at my first hack-a-thon building an app called No Spoilers!
+- 🔭 I’m currently learning python and building mini projects!
 - 🌱 I currently an intern @Magnify Access as a Web Accessibility Specialist!
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact: I like reading, so checkout my pinned project called Bookd Up!
